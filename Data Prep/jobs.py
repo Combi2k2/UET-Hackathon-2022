@@ -10,19 +10,18 @@ import random
 # Loading Data
 
 train_work = pd.read_csv('../uet-hackathon-2022-data-science/work_train.csv')
+train_info = pd.read_csv('../uet-hackathon-2022-data-science/info_train.csv')
+
 test_work = pd.read_csv('../uet-hackathon-2022-data-science/work_test.csv')
+test_info = pd.read_csv('../uet-hackathon-2022-data-science/info_test.csv')
 
 # Fill the unfilled values of "job/role" columns by 'NA'
 
 train_work['job/role'].fillna('NA', inplace = True)
 test_work['job/role'].fillna('NA', inplace = True)
 
-# Make the title all written in lower alphabet letter
-train_work['job/role'] = train_work['job/role'].str.lower()
-test_work['job/role'] = test_work['job/role'].str.lower()
-
-train_work['address'] = train_work['address'].str.lower()
-test_work['address'] = test_work['address'].str.lower()
+train_info['address'].fillna('NA', inplace = True)
+test_info['address'].fillna('NA', inplace = True)
 
 # normalize the words
 #   -   between 2 words there is only 1 blank space
@@ -41,6 +40,7 @@ char_chinh_dao = ['a', 'ă', 'â', 'b', 'c', 'd', 'đ', 'e', 'ê', 'f', 'g', 'h'
                   '(', ')', '-', '+', '&', ':', ';', ' ', '.', ',']
 
 def process(title):
+    title = title.lower()
     title = ''.join([c if c in char_chinh_dao else ' ' for c in title]).strip()
     
     words = list(filter(''.__ne__, title.split(' ')))
@@ -50,6 +50,9 @@ def process(title):
 
 train_work['job/role'] = train_work['job/role'].apply(process)
 test_work['job/role']  = test_work['job/role'].apply(process)
+
+train_info['address'] = train_info['address'].apply(process)
+test_info['address']  = test_info['address'].apply(process)
 
 jobs_total = pd.concat([train_work['job/role'], test_work['job/role']])
 jobs_total.to_csv('jobs.csv')
@@ -70,3 +73,6 @@ fillNaN(test_work)
 
 train_work.to_csv('../uet-hackathon-2022-data-science/work_train.csv')
 test_work.to_csv('../uet-hackathon-2022-data-science/work_test.csv')
+
+train_info.to_csv('../uet-hackathon-2022-data-science/info_train.csv')
+test_info.to_csv('../uet-hackathon-2022-data-science/info_test.csv')

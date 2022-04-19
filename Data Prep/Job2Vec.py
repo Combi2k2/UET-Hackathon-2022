@@ -33,7 +33,8 @@ def Sentence2Vec(sentence):
     
     return  res
 
-address_dict = json.load('address_dict.json')
+with open('/content/UET-Hackathon-2022/Data Prep/address_dict.json') as json_file:
+    address_dict = json.load(json_file)
 
 def Job2Vec(company_type, title, from_date, to_date, employee_lv, address):
     x = address_dict[address]['latitude']
