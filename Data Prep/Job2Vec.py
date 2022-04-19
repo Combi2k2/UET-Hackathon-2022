@@ -34,4 +34,4 @@ def Sentence2Vec(sentence):
     return  res
 
 def Job2Vec(company_type, title, from_date, to_date, employee_lv, address):
-    return  np.concatenate((np.array([company_type, from_date, to_date, address, employee_lv]), Sentence2Vec(title)), axis = 0)
+    return  np.concatenate((np.array([company_type, from_date, to_date, address]), Sentence2Vec(title)) * employee_lv / 10, axis = 0)
