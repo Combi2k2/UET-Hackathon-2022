@@ -1,0 +1,6554 @@
+{
+    "hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "việt nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "na": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "tp hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "cầu giấy": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "thành phố hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tp. hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "q1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tp hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tỉnh điện biên": {
+        "latitude": 21.7210126,
+        "longitude": 103.0410819
+    },
+    "hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "bắc ninh": {
+        "latitude": 21.1212051,
+        "longitude": 106.0880245
+    },
+    "định công p. đại kim q. hoàng mai hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "p. thượng thanh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q. phú nhuận": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "hồ chí minh": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "đồng nai": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "quận ba đình hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "hà nội.": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tp. hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tp.hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tp hà nội.": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "quận 2": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tp. hồ chí minh)": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tây hồ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tphcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "q7": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "việt nam)": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "hbt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đống đa hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "hải phòng": {
+        "latitude": 20.858864,
+        "longitude": 106.6749591
+    },
+    "hp": {
+        "latitude": 20.858864,
+        "longitude": 106.6749591
+    },
+    "q. pn": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tỉnh vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "10b royal city 72a nguyen trai thanh xuan ha noi": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "nhà bè": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "vụ chính sách thuế": {
+        "latitude": 16.4639321,
+        "longitude": 107.5863388
+    },
+    "tỉnh trà vinh": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "quận tân bình": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "quận 1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tỉnh bắc ninh": {
+        "latitude": 21.1212051,
+        "longitude": 106.0880245
+    },
+    "tp.hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "long an": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "hn .": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "thanh hoá": {
+        "latitude": 20.1071694,
+        "longitude": 105.2124457
+    },
+    "q.1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "hà nội (vùng 1)": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "thái bình": {
+        "latitude": 20.5296832,
+        "longitude": 106.3876068
+    },
+    "thành phố thái bình": {
+        "latitude": 20.5296832,
+        "longitude": 106.3876068
+    },
+    "tp. hà nội)": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tp. trà vinh": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "số nhà 125 phố hoàng ngân phường trung hòa cầu giấy hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "ha nô i": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hà nội (tầng 3)": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "trung hòa": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p thành công q ba đình hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "quận cầu giấy": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "thành phố hồ chí minh.": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "ba đình hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "cầu giấy hà nội p": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "thanh xuân": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "q.bình thạnh": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tp hồ chí minh": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "cg": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đầu tư a.l.a": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "chi nhánh thành phố hồ chí minh": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "kcn trung hà)": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "việt nam.": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "holdings": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q. long biên": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tp. đà nẵng.": {
+        "latitude": 16.068,
+        "longitude": 108.212
+    },
+    "hoàn kiếm": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quảng ninh": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "nơ quốc tế cái lân": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bd": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "q3": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "bình thạnh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q. 1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "72 lê thánh tôn phường bến nghé quận 1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "q.thủ đức": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "t.hà nam": {
+        "latitude": 20.2712241,
+        "longitude": 106.1629895
+    },
+    "5 lê duẩn q.1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "phú nhuận": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đống đa": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "công ty cổ phần quốc tế ico": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận1.tp hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "q2": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "phụ nữ và vị thành niên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hòan kiếm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "q.10": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tỉnh bình dương": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "quận 2.": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tha nh phô ha nô i": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "vũng tàu": {
+        "latitude": 10.4962696,
+        "longitude": 107.1688433
+    },
+    "vt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q.cầu giấy": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "nn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hưng yên": {
+        "latitude": 20.8193369,
+        "longitude": 106.0314504
+    },
+    "tỉnh hưng yên": {
+        "latitude": 20.8193369,
+        "longitude": 106.0314504
+    },
+    "từ liêm": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bắc ninh.": {
+        "latitude": 21.1212051,
+        "longitude": 106.0880245
+    },
+    "ba đình": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lạc đạo văn lâm hưng yên": {
+        "latitude": 20.8193369,
+        "longitude": 106.0314504
+    },
+    "q10": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "12 đinh tiên hoàng q1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "trung hòa nhân chính": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thành phố hà nôi.": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "thành phố hải phòng": {
+        "latitude": 20.858864,
+        "longitude": 106.6749591
+    },
+    "quảng nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "quận phú nhuận": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "quận 4": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "quận 7": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "làng qttl": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "yên bái": {
+        "latitude": 21.69611,
+        "longitude": 104.8752392
+    },
+    "thái nguyên": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "hà nam": {
+        "latitude": 20.2712241,
+        "longitude": 106.1629895
+    },
+    "tỉnh thanh hoá": {
+        "latitude": 20.1071694,
+        "longitude": 105.2124457
+    },
+    "thanh hóa": {
+        "latitude": 20.1071694,
+        "longitude": 105.2124457
+    },
+    "đăk nông": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "vp": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "nam định": {
+        "latitude": 20.2712241,
+        "longitude": 106.1629895
+    },
+    "t.p hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "vietnam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "kđt mỹ đình i quận nam từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "đông anh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "364 cộng hòa qtb": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "v": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hà nộii": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "đường giải phóng hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "vĩnh phúc ba đình": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "tt thành công ba đình hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "q. ba đình": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tp vũng tàu": {
+        "latitude": 10.4962696,
+        "longitude": 107.1688433
+    },
+    "phú thọ": {
+        "latitude": 21.4000047,
+        "longitude": 105.2238899
+    },
+    "đình dù văn lâm hưng yên": {
+        "latitude": 20.8193369,
+        "longitude": 106.0314504
+    },
+    "tp. hồ chí minh": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "nghệ an": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "hà tây": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "thành phố hà nội.": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tỉnh yên bái": {
+        "latitude": 21.69611,
+        "longitude": 104.8752392
+    },
+    "tp ha nô i": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p17. bình thạnh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "xóm 17 xuân phương từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "xóm 17 xuân phương quận nam từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "q.7": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "bình dương": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "tỉnh hoà bình": {
+        "latitude": 20.6609177,
+        "longitude": 105.3924747
+    },
+    "tỉnh hòa bình": {
+        "latitude": 20.6609177,
+        "longitude": 105.3924747
+    },
+    "58 đường 26 p11 q6": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp. hcm)": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "thành phố hà nôi": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "hà nội (vùng 01)": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tp.hcm.": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "q.tân bình": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "phường cầu diễn quận nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "q.pn": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tân bình": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tx hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "phòng 1908": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thành phố hồ chí minh": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "3 n03 việt hưng long biên hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "hai bà trưng hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "quận bình thạnh": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "hn.": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "huyện gia lâm": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hd": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bộ công an": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "phường 1 quận 4": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "hải dương": {
+        "latitude": 20.9443681,
+        "longitude": 106.3780373
+    },
+    "74 nguyễn thị minh khai q3": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "điện ngọc": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "ctcp": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận gò vấp": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "chi nhánh tctvt hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "hai bà trưng hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tptb": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "chi nhánh tràng an": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh sóc trăng": {
+        "latitude": 9.5664427,
+        "longitude": 105.876444
+    },
+    "nhân chính": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "toà nhà hà đô phố hoàng sâm": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p 23 yên hoà": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "117 trần duy hưng cầu giấy hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "qn": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "cụm tiểu thủ cn và cn nhỏ quận cg": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "lào cai": {
+        "latitude": 22.2967657,
+        "longitude": 104.0566164
+    },
+    "q. bình tân": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "kiên giang": {
+        "latitude": 9.9113945,
+        "longitude": 105.2533879
+    },
+    "q11": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tỉnh bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "quận 9": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "hctctv": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q.phú nhuận": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "vnpt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tầng 9 ct2a mỹ đình từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "hk": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "18 hoàng quốc việt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "137 a nguyễn văn cừ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "t. bắc ninh": {
+        "latitude": 21.1212051,
+        "longitude": 106.0880245
+    },
+    "q. bình thạnh": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "69 trần nhân tông": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "mai dịch": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "vn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh thanh hoá.": {
+        "latitude": 20.1071694,
+        "longitude": 105.2124457
+    },
+    "p. sài đồng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "vụ đầu tư": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp hải dương": {
+        "latitude": 20.9443681,
+        "longitude": 106.3780373
+    },
+    "thành phố hb": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "hoà bình": {
+        "latitude": 20.6609177,
+        "longitude": 105.3924747
+    },
+    "quảng nam.": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "tha nh phô ha nôi": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "p. việt hưng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q.3": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "quận 6": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tỉnh hà nam": {
+        "latitude": 20.2712241,
+        "longitude": 106.1629895
+    },
+    "tp cần thơ": {
+        "latitude": 10.0364216,
+        "longitude": 105.7875219
+    },
+    "đà nẵng": {
+        "latitude": 16.068,
+        "longitude": 108.212
+    },
+    "dv hậu": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp thái bình": {
+        "latitude": 20.5296832,
+        "longitude": 106.3876068
+    },
+    "phường bồ xuyên thành phố thái bình": {
+        "latitude": 20.5296832,
+        "longitude": 106.3876068
+    },
+    "13 kđg quyền thuê đất tân triều thanh trì hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "vĩnh long": {
+        "latitude": 10.1069,
+        "longitude": 105.9867653657871
+    },
+    "lô o17 kđt trung yên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "k40 giảng võ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "215j nguyễn trãi q.1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "láng thượng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đắk lắk": {
+        "latitude": 12.8399392,
+        "longitude": 108.2284947
+    },
+    "tỉnh đắk lắk": {
+        "latitude": 12.8399392,
+        "longitude": 108.2284947
+    },
+    "lê thị hồng gấm phường ntb quận 1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "quận 3": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "quận hồng bàng": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "hải phòng (vùng 1)": {
+        "latitude": 20.858864,
+        "longitude": 106.6749591
+    },
+    "hàng bột": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "85 hàm nghi q1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "viễn thông quân đội": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "láng hạ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hà nộ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "kế toán": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "43 xuân thủy p. thảo điền q2 tp.hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "ô chợ dừa đống đa hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tp nam định": {
+        "latitude": 20.2712241,
+        "longitude": 106.1629895
+    },
+    "hbt hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "chi nhánh công ty cổ phần bất động sản thế kỷ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bắc từ liêm tp hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tp hà nôi": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "khánh hòa": {
+        "latitude": 12.1960803,
+        "longitude": 108.9950386
+    },
+    "67b lương thế vinh trung văn hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "hoàn kiếm hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "an phú thuận an bình dương": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "43 bà triệu hoàn kiếm hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "trung liệt hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "số 39b trường sơn q tân bình": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q tân bình": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "25 bis nguyễn thị minh khai q.1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "sơn la": {
+        "latitude": 21.1508502,
+        "longitude": 103.8884294
+    },
+    "tỉnh kon tum": {
+        "latitude": 14.3615256,
+        "longitude": 108.0039102
+    },
+    "thương mại và dịch vụ hoa lư": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh bình phước": {
+        "latitude": 11.7332484,
+        "longitude": 106.906249
+    },
+    "tân yên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh đồng nai": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "t. đồng nai": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "đồng nai)": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "tđức": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tòa nhà 28 tầng làng qt tl dịch vọng cầu giấy hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "521 kim mã ba đình hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "nghĩa đô": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hà nội (đối diện cổng sau ks la thành)": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "quận tân bình tp. hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tp hà n": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q1 tp.hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "nhà máy như a y tế mediplast": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bình định": {
+        "latitude": 14.1525201,
+        "longitude": 108.9239618
+    },
+    "công ty dệt phong phú": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh thái nguyên": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "thành phố hà nộ": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "tp. vũng tàu": {
+        "latitude": 10.4962696,
+        "longitude": 107.1688433
+    },
+    "tổ 45c phương liên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "vĩnh phúc)": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "tt viện ứng dụng công nghệ hoàng quốc việt từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "q ba đình hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "trung tâm xuất nhập khẩu": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "viê t nam.": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "q.bình tân": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tỉnh nam định": {
+        "latitude": 20.2712241,
+        "longitude": 106.1629895
+    },
+    "c3 nguyễn cơ thạch mỹ đình từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "quận hà đông": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tp. thủ đức": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "an tây": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh quảng nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "p.minh khai": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "ct4b bắc linh đàm hoàng mai hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "quang minh hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "đại kim hoàng mai hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tỉnh bắc kạn": {
+        "latitude": 22.2571701,
+        "longitude": 105.8588958
+    },
+    "bắc kạn": {
+        "latitude": 22.2571701,
+        "longitude": 105.8588958
+    },
+    "số 11 phạm hùng quận nam từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "bqp": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "cầu giấy hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "q. cầu giấy": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "chi nhánh sở giao dịch": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "cskh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "117 trần duy hưng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "ltd.cn tp hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "chi nhánh tổng công ty viễn thông mobifone": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp. hà nội.": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "m2 kđt mới yên hòa p yên hòa cg hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "q. câ u giâ y": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "98 đường hoàng quốc việt phường nghĩa đô cầu giấy hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tổ 28 p dịch vọng hậu": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p mai dịch": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "yên hòa": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thương mại tinh huy": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bp": {
+        "latitude": 11.7332484,
+        "longitude": 106.906249
+    },
+    "tỉnh thái nguyên.": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "bình phước": {
+        "latitude": 11.7332484,
+        "longitude": 106.906249
+    },
+    "tp. hải phòng": {
+        "latitude": 20.858864,
+        "longitude": 106.6749591
+    },
+    "thái nguyên.": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "quận tân bình tp hồ chí minh": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "q.5": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "q. hoàng mai hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "c.ty dệt phong phú": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "phường dịch vọng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q8": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "thanh trì": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "k1 tt giảng võ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "kt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p bãi cháy tp hạ long quảng ninh": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "tp hạ long": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "q5": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "phường minh khai bắc từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "thành phố hà": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "thừa thiên huế": {
+        "latitude": 16.4639321,
+        "longitude": 107.5863388
+    },
+    "tỉnh thừa thiên huế": {
+        "latitude": 16.4639321,
+        "longitude": 107.5863388
+    },
+    "tp. đà nẵng": {
+        "latitude": 16.068,
+        "longitude": 108.212
+    },
+    "gia lai": {
+        "latitude": 13.7964067,
+        "longitude": 108.2608263
+    },
+    "tp vinh": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "tt huế": {
+        "latitude": 16.4639321,
+        "longitude": 107.5863388
+    },
+    "hà nội chi nhánh huế": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tp bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "p12 q6": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "12 cụm sx làng nghề tập trung tân triều thanh trì hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tài chính": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tt hào nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "khu đt mới trung hoà nhân chính": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hoàn kiếm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "vĩnh phúc.": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "25 nguyễn huệ p.bến nghé q.1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "q.tân bình.tp.hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tỉnh bến tre": {
+        "latitude": 10.1245254,
+        "longitude": 106.4690447
+    },
+    "thanh trì hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tp. thanh hoá": {
+        "latitude": 20.1071694,
+        "longitude": 105.2124457
+    },
+    "phường đông vệ thành phố thanh hóa": {
+        "latitude": 20.1071694,
+        "longitude": 105.2124457
+    },
+    "số 60 nguyễn đình chiểu phường đa kao q1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "số 134 1 tô hiến thành p15 q10": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "q bình thạnh. hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tỉnh hòa bình.": {
+        "latitude": 20.6609177,
+        "longitude": 105.3924747
+    },
+    "thanh xuân hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "106 hoàng quốc việt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "sóc sơn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnhthái nguyên": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "bg": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "xã đông thọ yên phong bắc ninh": {
+        "latitude": 21.1212051,
+        "longitude": 106.0880245
+    },
+    "công ty điện lực bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "nam từ liêm": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "vĩnh phúc (vùng 2)": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "đn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "xã quang tiến sóc sơn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đông anh hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tp. hà nội (vùng 1)": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tha nh phố ha nô i.": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "xã uy nỗ đông anh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận hai bà trưng thành phố hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "thương mại và dịch vụ an phú": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tiệp": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q bthạnh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "kim chung": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp.biên hòa": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "thương mại minh cường": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "nghĩa tân": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "nam hồng đông anh": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "lắp ráp khuôn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "h. đông anh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bắc kạn (vùng 3)": {
+        "latitude": 22.2571701,
+        "longitude": 105.8588958
+    },
+    "thành phố thái nguyên": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "kđt mỹ đình từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "kđt mỹ đình quận nam từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "bắc ninh (vùng 2)": {
+        "latitude": 21.1212051,
+        "longitude": 106.0880245
+    },
+    "viê t nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "hà bắc": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "thuận thành": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "( gần nhà văn hóa tổ 7 )": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "ngõ 178 nguyễn lương bằng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "long thành": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "vùng 01": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "chi nhánh công ty cổ phần sản xuất và xuất khẩu bao bì jumbo tú phương": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hồ tùng mậu": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp bắc ninh": {
+        "latitude": 21.1212051,
+        "longitude": 106.0880245
+    },
+    "quận long biên": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tỉnh nghệ an": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "9": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "mễ trì hạ từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "bắc ninh)": {
+        "latitude": 21.1212051,
+        "longitude": 106.0880245
+    },
+    "t. hà nam": {
+        "latitude": 20.2712241,
+        "longitude": 106.1629895
+    },
+    "tỉnh nam hà": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "tx.thuận an": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "2 cụm sx làng nghề tập trung xã tân triều thanh trì hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "5 kn tổng cục v tân triều thanh trì hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "t yên bái": {
+        "latitude": 21.69611,
+        "longitude": 104.8752392
+    },
+    "mễ trì": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "kỹ thuật": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh thái bình": {
+        "latitude": 20.5296832,
+        "longitude": 106.3876068
+    },
+    "văn điển thanh trì hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "xã duyên thái thường tín hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "lô b2": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tt 19 03 vĩnh quỳnh thanh trì hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tt.trường cb ql nông nghiệp": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "tp. ha nô i": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "xã tứ hiệp": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh thanh hóa": {
+        "latitude": 20.1071694,
+        "longitude": 105.2124457
+    },
+    "ngọc hồi thanh trì hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tân triều": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "định công hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "quận1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tp.ha nô i": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q cầu giấy": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "thanh miện": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp hải phòng": {
+        "latitude": 20.858864,
+        "longitude": 106.6749591
+    },
+    "tp đà lạt": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "q. thủ đức": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "quận 1.": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "bỡnh dương": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q nam từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tp thanh hóa": {
+        "latitude": 20.1071694,
+        "longitude": 105.2124457
+    },
+    "huyện hưng hà": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "an giang": {
+        "latitude": 9.9113945,
+        "longitude": 105.2533879
+    },
+    "t2 khu cn thăng long": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh hà giang": {
+        "latitude": 22.8264592,
+        "longitude": 104.9846342
+    },
+    "hà giang": {
+        "latitude": 22.8264592,
+        "longitude": 104.9846342
+    },
+    "cn ctcp gd và dv bình minh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh hà sơn bình": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "cộng hòa dân chủ đức": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh hà tây": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "hoàng mai hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "311 nguyễn văn trỗi .q tân bình": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh ninh binh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hà đông": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bến thành q1. tp. hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tp. hà": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p.việt hưng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận thanh xuân hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "3 kđt mễ trì hạ từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "hòa bình": {
+        "latitude": 20.6609177,
+        "longitude": 105.3924747
+    },
+    "p. phương liên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "số 11 phạm hùng từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "bộ quốc phòng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh gia lai": {
+        "latitude": 13.7964067,
+        "longitude": 108.2608263
+    },
+    "tp hoà bình": {
+        "latitude": 20.6609177,
+        "longitude": 105.3924747
+    },
+    "t hòa bình": {
+        "latitude": 20.6609177,
+        "longitude": 105.3924747
+    },
+    "tp hà nội việt nam": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tuyên quang": {
+        "latitude": 21.7879695,
+        "longitude": 105.217387
+    },
+    "qnam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "bình dương)": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "huyện chơn thành": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "dự án x2 đại kim": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh vĩnh long": {
+        "latitude": 10.1069,
+        "longitude": 105.9867653657871
+    },
+    "tp lạng sơn": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "p quan hoa": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tây ninh": {
+        "latitude": 11.404629,
+        "longitude": 106.0033909
+    },
+    "hải phòng.": {
+        "latitude": 20.858864,
+        "longitude": 106.6749591
+    },
+    "trung hòa cg": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hoàng mai hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "đồng nai.": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "a": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "văn lâm hưng yên": {
+        "latitude": 20.8193369,
+        "longitude": 106.0314504
+    },
+    "tp hà": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đường lê duẩn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thuận an bình dương": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "phú mỹ mỹ đình từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "quận nam từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "19 hồ tùng mậu q1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "ma": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đà lạt": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "12 kđt mới văn phú phường phú la hà đông hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "cg hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "xí nghiệp may xuất khẩu yên mỹ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp.hải dương": {
+        "latitude": 20.9443681,
+        "longitude": 106.3780373
+    },
+    "thành phố hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tỉnh tây ninh": {
+        "latitude": 11.404629,
+        "longitude": 106.0033909
+    },
+    "tct vtqđ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tập đoàn viễn thông quân đội": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tct ct": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "6 lê thánh tôn p.bn q1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "hà nội (vùng 2)": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "huyện thạch thất": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "t.hoà bình": {
+        "latitude": 20.6609177,
+        "longitude": 105.3924747
+    },
+    "ngõ 75 trần thái tông": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp hà nộ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q4": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hoàng mai": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "công ty cổ phần ô tô trường hải": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "t hoà bình": {
+        "latitude": 20.6609177,
+        "longitude": 105.3924747
+    },
+    "thb": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp hòa bình": {
+        "latitude": 20.6609177,
+        "longitude": 105.3924747
+    },
+    "t. hoà bình( tầng 2 siêu thị hoàng sơn)": {
+        "latitude": 20.6609177,
+        "longitude": 105.3924747
+    },
+    "t.hòa bình": {
+        "latitude": 20.6609177,
+        "longitude": 105.3924747
+    },
+    "t. hoà bình": {
+        "latitude": 20.6609177,
+        "longitude": 105.3924747
+    },
+    "hòa bình.": {
+        "latitude": 20.6609177,
+        "longitude": 105.3924747
+    },
+    "ct": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp huế": {
+        "latitude": 16.4639321,
+        "longitude": 107.5863388
+    },
+    "hoa lư vân hồ hai bà trưng hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "thanh trì hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "phường ngọc hà đống đa hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "ssa": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh hải dương": {
+        "latitude": 20.9443681,
+        "longitude": 106.3780373
+    },
+    "công ty tnhh phát triển công nghệ máy tính 3t việt nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "phạm hùng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "chương mỹ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thanh oai": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp.hồ chí minh": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "8 khu làng nghề triều khúc tân triều thanh trì hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "p13 bt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp hà nộihà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "pháp": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "c8 phường hoàng văn thụ tp bắc giang tỉnh bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "lạng sơn": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "tỉnh lạng sơn": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "bhxh)": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "t. yên bái": {
+        "latitude": 21.69611,
+        "longitude": 104.8752392
+    },
+    "quận tân phú": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "5 kcn điềm thụy xã điềm thụy huyện phú bình tỉnh thái nguyên": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "ti nh tha i nguyên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh lai châu": {
+        "latitude": 22.3048728,
+        "longitude": 102.9628862
+    },
+    "bắc thái": {
+        "latitude": 22.2571701,
+        "longitude": 105.8588958
+    },
+    "tp thái nguyên": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "tỉnh bắc thái.": {
+        "latitude": 22.2571701,
+        "longitude": 105.8588958
+    },
+    "tỉnh tn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "t. thái nguyên.": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "tỉnh bắc thái": {
+        "latitude": 22.2571701,
+        "longitude": 105.8588958
+    },
+    "tp tn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp. thái nguyên": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "t. thái nguyên": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "tinh thái nguyên": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "tp.thái nguyên": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "t thái nguyên": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "t.thái nguyên": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "thái nguyên (vùng 2)": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "thái nguyên (vùng 4)": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "tn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp thái nguyên ( đt: 3 832 129)": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "tỉnh đắc nông": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "đồng tháp": {
+        "latitude": 10.5542534,
+        "longitude": 105.6533970830504
+    },
+    "q.2": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "xí nghiệp năng lượng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tòa nhà hải âu 39b trường sơn. q. tân bình": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "quận3": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "ict vân trung": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đồng hỷ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tptn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "(tnhh)": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "cn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "phường lộc sơn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bảo lâm": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "giáo dục thường xuyên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh hoà bình.": {
+        "latitude": 20.6609177,
+        "longitude": 105.3924747
+    },
+    "tỉnh cao bằng": {
+        "latitude": 22.7730867,
+        "longitude": 106.0017225
+    },
+    "p.hoàng văn thụ tptn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bắc thái.": {
+        "latitude": 22.2571701,
+        "longitude": 105.8588958
+    },
+    "tỉnh lào cai": {
+        "latitude": 22.2967657,
+        "longitude": 104.0566164
+    },
+    "0)": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "65 trần hưng đạo q.1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "đông anh hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "bìnhdương": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "huyện bắc tân uyên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bắc giang)": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "tp. hải phòng)": {
+        "latitude": 20.858864,
+        "longitude": 106.6749591
+    },
+    "cg (cổng sau big c thăng long)": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "t bắc ninh": {
+        "latitude": 21.1212051,
+        "longitude": 106.0880245
+    },
+    "thuận an bd": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "thành phố thuận an bình dương": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "thuận giao thuận an bình dương": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "hb": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "trà vinh": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "5 kcn hố nai 3 trảng bom": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "biên hòa đồng nai": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "tp thái nguyên.": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "tỉnh thái nguyên .": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "t.lạng sơn": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "tỉnh langj sơn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lsơn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "huyện văn quan .lạng sơn": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "huyện văn quan tỉnh lạng sơn": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "tech việt nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "vùng 02": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp hà nội. đt 0988757568": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tỉnh brvt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "phường phú xá. tp thái nguyên": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "vũng tàu)": {
+        "latitude": 10.4962696,
+        "longitude": 107.1688433
+    },
+    "huyện trảng bom": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thái nguyên (vùng 3)": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "lạng sơn (vùng 4)": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "huyện lộc bình tỉnh lạng sơn": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "233 lê thánh tôn phường bến thành quận 1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "huyện cao lộc": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "huyện tràng định tỉnh lạng sơn": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "mechanics việt nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "tỉnh lạng sơn.": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "huyện văn lãng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "văn lãng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh vĩnh phú": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "thị xã sơn tây": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "dv như lộc phát": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p8 tp vũng tàu": {
+        "latitude": 10.4962696,
+        "longitude": 107.1688433
+    },
+    "vũng tàu.": {
+        "latitude": 10.4962696,
+        "longitude": 107.1688433
+    },
+    "thái nguyê": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lạng sơn.": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "quảng ninh (vùng 3)": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "tp.hcm)": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "hạ long": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "qn.": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "tỉnh quảng ninh": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "quang ninh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "qninh": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "thuận an": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp hạ long.qn": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "bãi cháy": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "t. quảng ninh": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "tp hạ long.quảng ninh": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "transaction office": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp đà nẵng": {
+        "latitude": 16.068,
+        "longitude": 108.212
+    },
+    "cẩm phả.quảng ninh": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "cẩm phả.qn": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "hl.qn": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "phường hà trung": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đống đa. hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "nghiệp vụ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bot": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "ict ( việt nam)": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "vinacomin": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "hồng hà": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thành phố đà nẵng": {
+        "latitude": 16.068,
+        "longitude": 108.212
+    },
+    "lạng giang": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp hạ long qn": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "khu an ninh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "qđ14": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "huyện chi lăng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tinh lạng sơn": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "tỉnh bình thuận": {
+        "latitude": 11.101462,
+        "longitude": 107.9415938
+    },
+    "bộ chỉ huy quân sự tỉnh lạng sơn": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "huyện chi lăng. tỉnh lạng sơn": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "tkv": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "4 kcn amata": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đà nẵng (vùng 2)": {
+        "latitude": 16.068,
+        "longitude": 108.212
+    },
+    "huyện lộc bình": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "cẩm phả quảng ninh": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "tỉnh bình dương.": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "quảng ninh (vùng 2)": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "cẩm phả": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnhlạng sơn": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "huyện đình lập. tỉnh lang sơn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh bắc ninh.": {
+        "latitude": 21.1212051,
+        "longitude": 106.0880245
+    },
+    "bắc ninh (vùng 02)": {
+        "latitude": 21.1212051,
+        "longitude": 106.0880245
+    },
+    "xn vật tư và vận tải": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "viêt nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "tp. hạ long": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "hùng thắng hạ long": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "uông bí quảng ninh": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "tp. bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "thành phố hạ long": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "bà rịa vũng tàu": {
+        "latitude": 10.4962696,
+        "longitude": 107.1688433
+    },
+    "tỉnh bg": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "phường hoàng văn thụ tp. bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "tp.bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "tỉnh bắc giang.": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "thành phố bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "tp bg": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "tpbg": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "tỉnh bắc giang (giáp kdc p.mỹ độ)": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "thành phố bắc giang (giáp công an thành phố bắc giang)": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "thị xã bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "tp bắc giang3": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "lê lợi": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hành chính": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "kinh doanh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "an toàn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "pn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lâm nghiệp": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "điện lực thành phố bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "p. hoàng văn thụ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "trung tâm khuyến nông tỉnh)": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "kỹ thuật nông nghiệp thành phố bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "yd": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp. bă c giang": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "t. bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "p. trần phú. tp bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "tp.bg": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "yên dũng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p trần nguyên hãn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quân khu 1": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bắc giang.": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "tp bắc giang.": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "trảng bàng tây ninh": {
+        "latitude": 11.404629,
+        "longitude": 106.0033909
+    },
+    "quảng ninh (vùng 4)": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "đắk nông": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "tỉnh phú thọ": {
+        "latitude": 21.4000047,
+        "longitude": 105.2238899
+    },
+    "tm b&amp;h": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh hà tĩnh": {
+        "latitude": 18.2879059,
+        "longitude": 105.7842774
+    },
+    "phường hoàng văn thụ bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "bn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "phường hoàng văn thành thụ phố bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "bắc giang (vùng 3)": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "tỉnh bắc giang)": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "ngô quyền tp bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "ti nh bă c giang": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "vina": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "huyện việt yên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "chi nhánh bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "yên thế": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh đồng nai)": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "tdm bình dương": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "hải hưng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bắc giang (vùng 4)": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "q tân phú tp.hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "hải dương (vùng 3)": {
+        "latitude": 20.9443681,
+        "longitude": 106.3780373
+    },
+    "yên thế bg": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "tx đụng triều": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "nội hoàng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "ty": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp.uụng bớ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bắc giang (vùng 04)": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "thị xã đông triều": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "c n quảng yên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "phường 14 quận gò vấp": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "kcn sóng thẩn 2": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "05 bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "tỉnh ninh bình": {
+        "latitude": 20.2545421,
+        "longitude": 105.9764854
+    },
+    "hiệp hoà": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "ubnd huyện lạng giang": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p. trần phú": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tt vôi": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lg": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "huế": {
+        "latitude": 16.4639321,
+        "longitude": 107.5863388
+    },
+    "martin (việt nam)": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "bg.": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "tp hd": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "huyện lạng giang bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "băc giang": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bắc gian": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p trần nguên hãn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lạng giang bg": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "an châu sơn động bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "lạng giang bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "biên hòa": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "hà bắc.": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "tỉnh hà bắc.": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "f347 quân khu i": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bình chánh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "trảng bom": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tech vina": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "bắ giang": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bình định.": {
+        "latitude": 14.1525201,
+        "longitude": 108.9239618
+    },
+    "tm thịnh phát ocean": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "tỉnh đắk nông": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "huyện yên dũng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "cây lâm nghiệp": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thành phố pà nội": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "p3.q4": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "technology vina": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tỉnh long an": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tp. thanh hóa": {
+        "latitude": 20.1071694,
+        "longitude": 105.2124457
+    },
+    "bắc giangư": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "chi nhánh yên dũng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "xã đại lâm huyện lạng giang": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lục nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "tỉnh đắklắk": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bd.": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "đăk lăk": {
+        "latitude": 12.8399392,
+        "longitude": 108.2284947
+    },
+    "bến cát bd": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "hà nộ i": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh sông bé": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "57 kcx linh trung ii qthủ đức": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "litecom vina": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "t": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp bắc ninh; 0966348499": {
+        "latitude": 21.1212051,
+        "longitude": 106.0880245
+    },
+    "thị trấn chũ lục ngạn bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "bình phước .": {
+        "latitude": 11.7332484,
+        "longitude": 106.906249
+    },
+    "huyện chơn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lạng giang tỉnh bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "tm trường giang": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đô lương": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh khánh hòa": {
+        "latitude": 12.1960803,
+        "longitude": 108.9950386
+    },
+    "tỉnh đăk lăk": {
+        "latitude": 12.8399392,
+        "longitude": 108.2284947
+    },
+    "tân uyên bình dương": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "nhà b8 tt kim liên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đăklăk": {
+        "latitude": 12.8399392,
+        "longitude": 108.2284947
+    },
+    "q12": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "bdương": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "t.bình dương": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "t. bình phước": {
+        "latitude": 11.7332484,
+        "longitude": 106.906249
+    },
+    "tỉnh bắc giang )": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "việt yên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "office": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "binh dương": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận 2( trạm xi măng)": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "kỳ sơn nghệ an": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "đường b": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp hồ chí minh)": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "ss": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thương mại hu ng thu": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "trảng dài": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thủ đức": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "chi nhánh kinh bắc": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "binh duong": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "b12 khu công nghiệp đình trám bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "nghệ an (vùng 4)": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "huyện việt yên tỉnh bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "tp vt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "kcnc quận 9": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "singapore thuận an bình dương": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "hóc môn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đắk nông (vùng 04)": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "điện lực hiệp hòa": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "f.26 quận bình thạnh": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "phường kinh bắc thành phố bắc ninh": {
+        "latitude": 21.1212051,
+        "longitude": 106.0880245
+    },
+    "cần thơ": {
+        "latitude": 10.0364216,
+        "longitude": 105.7875219
+    },
+    "đơn dương": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "q.tđ": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "số 1 đinh lễ p12 q4": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q.12": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "t. bình dương": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "tbình dương": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "việt yên bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "bắc giang( thuê nhà xưởng công ty tnhh longtao vina)": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "tp bắc ninh (trong công ty coma26)": {
+        "latitude": 21.1212051,
+        "longitude": 106.0880245
+    },
+    "vùng 1": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận 10": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "q. tân phú": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "hiệp hòa": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q.9": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "thành phố huế": {
+        "latitude": 16.4639321,
+        "longitude": 107.5863388
+    },
+    "tình bình dương": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "long thành đồng nai": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "huyện quỳ hợp tỉnh nghệ an": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "huyện nhà bè": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q9": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thành phố thủ đức": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "phường dĩnh kế thành phố bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "q.gò vấp": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "xóm 7 thành phố vinh xã nghi phú": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "qtđ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q.tân phú": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tỉnh đăk nông": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "bình dương.": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "t.đăk nông": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "t. nghệ an": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "t. đăk nông": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "t. đắk lắk": {
+        "latitude": 12.8399392,
+        "longitude": 108.2284947
+    },
+    "t. đắk nông": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "tỉnh na": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "bệnh viện chợ rẫy": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tth": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "kcn hòa phú xã châu minh hiệp hòa bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "công ty tnhh một thành viên muối việt nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "tỉnh đắk lắ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "công ty tnhh nam yang international việt nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "nhà máy z176 tổng cục cnqp": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tập đoàn công nghiệp viễn thông quân đội": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "70 kcx linh trung ii q.tđức": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "quận 2.tp.hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "q bình tân": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "phú tho": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "97 kcx linh trung 1": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "kcx linh trung 1": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp.hồ chí minh.": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "t. bỡnh dương": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đắk nông (vùng 3)": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "số 15 tô hiến thành hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "đắk lăk": {
+        "latitude": 12.8399392,
+        "longitude": 108.2284947
+    },
+    "t.t.huế": {
+        "latitude": 16.4639321,
+        "longitude": 107.5863388
+    },
+    "tphn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "mtv công ty tnhh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "txhg": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp hồ chí minh.": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "trường hải": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "nghệ an.": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "kcn biên hòa 2": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "tỉnh đồng nai.": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "t.đồng nai": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "vĩnh phú": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "chi nhánh phú quốc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "chi nhánh đăk nông": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "thành phố vinh": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "hậu giang": {
+        "latitude": 9.7633197,
+        "longitude": 105.6379524
+    },
+    "quỳnh lưu": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "kcn biên hòa 2.": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "ubnd thị trấn cầu giát": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "cn tsn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đắknông": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "đak nông": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "đăk nông.": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "tỉnh đăk nông.": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "mttq thị trấn cầu giát": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "t. đăk lăk": {
+        "latitude": 12.8399392,
+        "longitude": 108.2284947
+    },
+    "đăk lăk.": {
+        "latitude": 12.8399392,
+        "longitude": 108.2284947
+    },
+    "đường số 2 khu công nghiệp amata": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh đăk lăk.": {
+        "latitude": 12.8399392,
+        "longitude": 108.2284947
+    },
+    "campuchia": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hồ chí minh (vùng 1)": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "q phú nhuận": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "c": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thị xó dĩ an": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "phú thọ (vùng 4)": {
+        "latitude": 21.4000047,
+        "longitude": 105.2238899
+    },
+    "nghệ an nghệ an": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "tân phú": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh nghệ an.": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "tỉnh bd": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "tx tân uyên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "vĩnh phúc (đối diện sở y tế tỉnh vĩnh phúc)": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "gh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "huyện quỳnh lưu. tỉnh nghệ an": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "q.gò vấp. tp.hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "quân khu 3": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "huyện đăk g long": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "yên định": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lđ": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "9a đường số 4": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "huyện quỳnh lưu": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tđ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "long an)": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tinh đồng nai": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "bến tre": {
+        "latitude": 10.1245254,
+        "longitude": 106.4690447
+    },
+    "t vĩnh phúc với": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "phù chẩn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "111 q.tđức": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "đắk nông (vùng 4)": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "bình phước (vùng 4)": {
+        "latitude": 11.7332484,
+        "longitude": 106.906249
+    },
+    "đăk lắk": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đắk lắk (vùng 3)": {
+        "latitude": 12.8399392,
+        "longitude": 108.2284947
+    },
+    "phường cô giang": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "biên hòa. đồng nai": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "quốc lộ 13": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp vĩnh yên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p.thạnh xuân quận 12. tp hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "10h1 kcn tân thới hiệp p.hiệp thành q12": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "công ty tnhh hoàng nguyên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "công ty tnhh văn minh diễn châu": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "chi nhánh công trình peru": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bình tân": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "one": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đồng nai .": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "huyện anh sơn. tỉnh nghệ an": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "vùng 03": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "trung tâm phát tp biên hòa": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "khu công nghiệp nghĩa sơn huyện nghĩa hưng tỉnh nam định": {
+        "latitude": 20.2712241,
+        "longitude": 106.1629895
+    },
+    "nghệ an huyện con cuông": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "con cuông nghệ an": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "quảng ngãi": {
+        "latitude": 14.9635349,
+        "longitude": 108.6642632
+    },
+    "bảo lộc": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "kỷ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đàlạt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "lđồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "tp.đà lạt": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "quận i": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tp nha trang": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q bt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "huyện diễn châu tỉnh nghệ an": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "huyện đạ tẻh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh lâ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận bình tân": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "lâm đồng.": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "tỉnh lâm đồng.": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "tp bảo lộc": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đà lạt lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "phường 1": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đà lat": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "62 lê lợi q1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "lâm đồng vùng 2": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "tp.hồ chí minh)": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "phường 7 đà lạt": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "phường 1 đà lạt": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "tĩnh lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "tình lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "phường 8 đà lạt": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "sông bé": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đlạt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q thủ đức": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "thpt việt anh": {
+        "latitude": 20.858864,
+        "longitude": 106.6749591
+    },
+    "huyện bảo lâm": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "kcn long thành đồng nai": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "phường 4 đà lạt": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "trại mát": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đam rông lđ": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "quận 2 tp.hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "5 lê duẩn p.bn q.1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "phường 2 đà lạt": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "thành phố đà lạt": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "dĩ an bd": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "ninh thuận": {
+        "latitude": 11.7449715,
+        "longitude": 108.8983408
+    },
+    "tỉnh bình định": {
+        "latitude": 14.1525201,
+        "longitude": 108.9239618
+    },
+    "thuận thành bắc ninh": {
+        "latitude": 21.1212051,
+        "longitude": 106.0880245
+    },
+    "tp.thủ dầu một tỉnh bình dương": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "q1. tp. hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "p9 đà lạt": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "phường 3 đà lạt": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "tỉnh tt huế": {
+        "latitude": 16.4639321,
+        "longitude": 107.5863388
+    },
+    "cty cp khoán sản&vật liệu xây dựng lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "tp. cà mau": {
+        "latitude": 9.0875429,
+        "longitude": 105.032047
+    },
+    "p6 đà lạt": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "xã vĩnh lộc b": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thành ủy bảo lộc": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "7 số 364 cộng hòa f13 q tân bình": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p.tân phong q.7": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "hbc": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quân khu 7": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đồng nai (vùng 1)": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "chi nhánh tổng công ty dịch vụ viễn thông": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "khu kt đông nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "tp hcm)": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "p8": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "phu tho": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lâm đồng (vùng 2)": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "tuyền lâm": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bến nghé . q1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tp. bảo lộc": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "4 d1 cn kcn mỹ phước 3 bến cát bd": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "nước chdcnd lào": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lào cai (vùng 2)": {
+        "latitude": 22.2967657,
+        "longitude": 104.0566164
+    },
+    "68 hai bà trưng p.bến nghé q.1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "bat": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "xí nghiệp lốp radial": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p3": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q3.": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "sx triệu phú lộc": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "nghệ an (vùng 03)": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "nghệ an (vùng 3)": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "hiệp bình phước .thủ đức": {
+        "latitude": 11.7332484,
+        "longitude": 106.906249
+    },
+    "phường11 đà lạt": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "quận 5": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tphcm)": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "e6 phạm hùng khu đtm cầu giấy mễ trì từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tp.thủ đức": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "khu công nghiệp biên hòa 2. đồng nai": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "p11 q6": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận thủ đức": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "đức trọng lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "đức trọng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "nghi xuân": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "74 nguyễn thị minh khai p6 q3": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "kcx tân thuận q7": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "hà nam ninh": {
+        "latitude": 20.2712241,
+        "longitude": 106.1629895
+    },
+    "tầng 20)": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bình dương (vùng 1)": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "tphcm.": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "lâm đồng (vùng 02)": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "brvt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh bn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "kcn bình chiểu q.thủ đức": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "đam rông lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "cn bình dương": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "q 2": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "huyện bến lức": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lâm đồngg": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "lâm hà lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "qpn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lâm đồng (vùng 4)": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "148 hoàng quốc việt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "348 võ văn kiệt p an thới q bình thủy tp cần thơ": {
+        "latitude": 10.0364216,
+        "longitude": 105.7875219
+    },
+    "khu đô thị an cựu city": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lạc dương": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "trần phỳ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hồ chí minh (vùng 01)": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tam kỳ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quảng trị": {
+        "latitude": 16.8581352,
+        "longitude": 106.8588935
+    },
+    "tp.cần thơ": {
+        "latitude": 10.0364216,
+        "longitude": 105.7875219
+    },
+    "phú thọ)": {
+        "latitude": 21.4000047,
+        "longitude": 105.2238899
+    },
+    "qu n t n b nh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "xã nghi xá huyện nghi lộc tỉnh nghệ an": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "tỉnh long an.": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "p tân hưng q7": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "phú thọ.": {
+        "latitude": 21.4000047,
+        "longitude": 105.2238899
+    },
+    "q. tân bình": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tỉnh phú thọ.": {
+        "latitude": 21.4000047,
+        "longitude": 105.2238899
+    },
+    "kon tum": {
+        "latitude": 14.3615256,
+        "longitude": 108.0039102
+    },
+    "kontum": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh kontum": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "xã đa phước": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bi nh dương (giao cho dntn trương hư u ti n)": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bình chuẩn thuận an bình dương": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "vinh": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "quận 12": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "b ỡnh d ư ơng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp biên hòa": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "29 kcx sài gòn linh trung p.linh trung q.tđ": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "cty cpks&vl x.dựng lđ": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "vùng iii": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "cn vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "hòa bình (vùng 3)": {
+        "latitude": 20.6609177,
+        "longitude": 105.3924747
+    },
+    "t.lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "bình xuyên vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "quận 8": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "dịch vụ hiếu hồng hà": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "chi nhánh vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "huyện đức trọng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "huyện đô lương": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "chi nhánh du lịch đảo ngọc xanh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "t. vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "tình vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "bắc từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tỉnh đô ng nai": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "vi nh phu c": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "ubnd tpvy": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "vĩnh yên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "t.vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "khoa kinh tế vận tải": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lâm hà 2": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "nghệ tĩnh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "t vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "m4 số 91 nguyễn chí thanh hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "phú yên": {
+        "latitude": 13.2126552,
+        "longitude": 109.0834225
+    },
+    "quận tân bình .": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "lâm đồng (vùng 03)": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "vùng ii": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q 7": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bưu điện tỉnh vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "phường 9 đà lạt": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "v ĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "tính lai châu": {
+        "latitude": 22.3048728,
+        "longitude": 102.9628862
+    },
+    "tp vĩnh yên tỉnh vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "tt di linh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "vyên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thành phồ hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "gear vi nh phu c": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "tp vĩnh yên vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "kinh doanh và thương mại phước tường": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "d4 chợ đầu mối nông sản chất lượng cao đức trọng": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "thực phẩm tỉnh vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "xã tân kiên huyện bình chánh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "vĩnh yên vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "khu công nghiệp bắc vinh": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "xã long an long thành đồng nai": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "ca rental": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "la": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q6": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lâm đồng (vùng 3)": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "huyện hóc môn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "di linh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đơn dương lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "cty cp vlxd lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "cty cp ks vlxd lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "cty cpvlxd lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "lai châu (vùng 3)": {
+        "latitude": 22.3048728,
+        "longitude": 102.9628862
+    },
+    "huyện bình xuyên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "nhà a17 tầng bộ tham mưu mỹ đình quận nam từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "đức lập hạ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bènh dương": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "cơ khí nam lâm": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "q.bt": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "bộ chqs lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "khánh hòa (vùng 2)": {
+        "latitude": 12.1960803,
+        "longitude": 108.9950386
+    },
+    "gò vấp": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p7. q3": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "đại học quốc gia hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "q.8": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "quận 8.": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "43 đường số 2 kcx linh trung ii qtđ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "ấp 8 xã an phước huyện long thành tỉnh đồng nai": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "lt đn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "dịch vụ và du lịch thái hoàng chi nhánh vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "khách sạn dic star vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "tỉnh sơn la": {
+        "latitude": 21.1508502,
+        "longitude": 103.8884294
+    },
+    "tx tõn uyờn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bình": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "laichâu": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "nghệ an (vùng 04)": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "gia lai.": {
+        "latitude": 13.7964067,
+        "longitude": 108.2608263
+    },
+    "xã an thạnh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "nghệ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "3 vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "thương binh và xã hội tỉnh vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "v.phúc": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quân khu 2": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp. hcm.": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "electronic": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "vĩnh yên. vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "cn biên hòa": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "p16q11": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tp.ct": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "nghệ an thành phố vinh phường đông vĩnh": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "p.hưng bình. tp vinh": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "lao cai": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bình duơng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p. phương canh quận nam tư liêm tp hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "12 đường số 19 5a kcn tân bình p. tây thạnh q. tân phú hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tỉnh kiên giang": {
+        "latitude": 9.9113945,
+        "longitude": 105.2533879
+    },
+    "tỉnh đồng tháp": {
+        "latitude": 10.5542534,
+        "longitude": 105.6533970830504
+    },
+    "huyện tam dương": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh bạc liêu": {
+        "latitude": 9.3477317,
+        "longitude": 105.5097064
+    },
+    "vĩnh phcú": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "tam dương vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "3": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "vùng iv": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "huyện nghi lộc": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "ti nh nghê an": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lào": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "chdcnd lào": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "sư đoàn 333 quân khu 5": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "cát tiên lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "p.tân phú q.7": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "xd &amp; kdn sài gòn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "kcn bình xuyên 2": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "xã nghi đồng huyện nghi lộc tỉnh nghệ an": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "hc": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p2. q3": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tm &amp; dv tân trường thịnh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "t.bình phước": {
+        "latitude": 11.7332484,
+        "longitude": 106.906249
+    },
+    "vĩnh phúc (vùng 3)": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "đồng xoài.bp": {
+        "latitude": 11.7332484,
+        "longitude": 106.906249
+    },
+    "tpct": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hcm)": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "bình phước (vùng 3)": {
+        "latitude": 11.7332484,
+        "longitude": 106.906249
+    },
+    "đường số 3.": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận pn": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "il việt nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "118 nguyễn thị khai p6 q3": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tỉnh hà bắc": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "phước long": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "qtân phú": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "ngõ 370. đường cầu giáy": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "huyện t": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tt thanh bình": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "dịch vụ hoàng thái đại phát": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bình phuóc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "q12.tp.hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "cầu giấy hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "vinh phúc": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "nghệ an)": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "tt hóc môn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "t. lạng sơn": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "txđx": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thị xã đồng xoài": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "chi nhánh bình phước": {
+        "latitude": 11.7332484,
+        "longitude": 106.906249
+    },
+    "trường chinh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "huyện củ chi": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "trung tâm y tế huyện vĩnh tường": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh bình bhước": {
+        "latitude": 11.7332484,
+        "longitude": 106.906249
+    },
+    "tp nghệ an": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "đồng xoài tỉnh bình phước": {
+        "latitude": 11.7332484,
+        "longitude": 106.906249
+    },
+    "t bình phước": {
+        "latitude": 11.7332484,
+        "longitude": 106.906249
+    },
+    "hà tĩnh (vùng 4)": {
+        "latitude": 18.2879059,
+        "longitude": 105.7842774
+    },
+    "hồ chí minh.": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "đồng xoài": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "vĩnh phú.": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "xh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thanh hóa (vùng 03)": {
+        "latitude": 20.1071694,
+        "longitude": 105.2124457
+    },
+    "thanh hóa (vùng 4)": {
+        "latitude": 20.1071694,
+        "longitude": 105.2124457
+    },
+    "cà mau.": {
+        "latitude": 9.0875429,
+        "longitude": 105.032047
+    },
+    "cà mau": {
+        "latitude": 9.0875429,
+        "longitude": 105.032047
+    },
+    "q. hoàng mai": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "37 dương bá cung p. an lạc a": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "dvọng hậu cg hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "quận ba đình": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "thành phố cần thơ.": {
+        "latitude": 10.0364216,
+        "longitude": 105.7875219
+    },
+    "p. bến nghéq1 tp hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "công ty cổ phần siêu thị vinmart": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "chi nhánh kỹ thuật viettel hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "đào tạo và xnk": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "phường láng thượng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p. láng thượng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "44 b lý thường kiệt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "phòng 10.05.44b lý thường kiệt hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "phòng 1306.49 hai bà trưng hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "chi nhánh tây hồ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận ba đình thành phố hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "hoàn kiến hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tòa hongkong tower": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "53 quang trung": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tây hồ hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tây mỗ từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tây mỗ quận nam từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "value": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tpcm": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận tây hồ": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "q. 12": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tòa nhà petro vietnam tower": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "vp hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "p6 q3": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "q bình thạnh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bình thạnh)": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bãi cháy tp hạ long": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "c nguyễn trãi p.bt q.1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tpnđ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "trung hòa cầu giấy": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "dda.hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "kdc conic nguyễn văn linh xã phong phú huyện bình chánh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "vụ tài chính ngân hàng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "299 cầu giấy": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "quận hai bà trưng": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "dv phát việt 247 bis": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hà nội (tòa nhà hội liên hiệp phụ nữ)": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "lầu 11": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "dv": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận cầu giấy thành phố hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "bỡnh phước": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "p trung hòa": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quảng cáo và công nghệ thông tin b.t.q": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thanh xuân hà nội.": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "long biên hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "136 hoàng quốc việt phường nghĩa tân cầu giấy hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "67 lê lợi phường bến nghé quận 1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "m": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp tam kỳ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "chi nhánh nhà máy bắc ninh": {
+        "latitude": 21.1212051,
+        "longitude": 106.0880245
+    },
+    "kđt mỹ đình sông đà từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "phú diễn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bt4 kđtm cầu bươu tân triều thanh trì hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "khu công nghiệp phú bài": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tthuế": {
+        "latitude": 16.4639321,
+        "longitude": 107.5863388
+    },
+    "ngũ hiệp thanh trì hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "núi thành": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "ninh bình": {
+        "latitude": 20.2545421,
+        "longitude": 105.9764854
+    },
+    "q. bắc từ liêmtp. hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "74 nguyễn t minh khai q1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tx hà giang": {
+        "latitude": 22.8264592,
+        "longitude": 104.9846342
+    },
+    "ttpp dược phẩm hapulico": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hn. vn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "thành phố cần thơ": {
+        "latitude": 10.0364216,
+        "longitude": 105.7875219
+    },
+    "phố hoàng đạo thuý cg": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "xây dựng tân gia việt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đ n": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận ba đình thành phố hà nội.": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "q. 7": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "37 tôn đức thắng p.bến nghé q.1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "hưng yên (vùng 3)": {
+        "latitude": 20.8193369,
+        "longitude": 106.0314504
+    },
+    "t. hòa bình": {
+        "latitude": 20.6609177,
+        "longitude": 105.3924747
+    },
+    "ba la hà đông hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tỉnh đống nai": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "ha nội": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận bắc từ liêm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "cao bằng": {
+        "latitude": 22.7730867,
+        "longitude": 106.0017225
+    },
+    "3 kcn điềm thụy xã điềm thụy huyện phú bình tỉnh thái nguyên": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "tỉnh t hà nam": {
+        "latitude": 20.2712241,
+        "longitude": 106.1629895
+    },
+    "tm thành công": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "h.chi lăng. t.lạng sơn": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "thái nguyên (vùng 02)": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "huyện tràng định": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q.6": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tỉnh tuyên quang": {
+        "latitude": 21.7879695,
+        "longitude": 105.217387
+    },
+    "trạm y tế bãi cháy": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "phường bạch đằng tp hạ long": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "vũ văn hiếu tp hạ long": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "tp hạ long.": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "e474": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hạ long.": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "hồng hải.tp hạ long.quảng ninh": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "hữu lung lạng sơn": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "ls": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tình lạng sơn": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "tp cẩm phả": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "dl minh loan": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hải phòng (vùng 01)": {
+        "latitude": 20.858864,
+        "longitude": 106.6749591
+    },
+    "bắc giang (vùng 03)": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "chi nhánh xdct bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "tp.": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "phường xương giang thảnh phố bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "sx b.h": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đồng na": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "quảng ninh)": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "điện biên (vùng 3)": {
+        "latitude": 21.7210126,
+        "longitude": 103.0410819
+    },
+    "chi nhánh bắc ninh": {
+        "latitude": 21.1212051,
+        "longitude": 106.0880245
+    },
+    "trần phú tp. bắc giang bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "bạc liêu": {
+        "latitude": 9.3477317,
+        "longitude": 105.5097064
+    },
+    "đông anh hà nội.": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tx bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "yên dũng (thuê nhà xưởng của cty cp thép việt úc)": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p. trần nguyên hãn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "xã tiền phong huyện yên dũng tỉnh bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "phường ngô quyền thành phố bắc giang": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "ict (việt nam)": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "q b thạnh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bắc ninh (sau cây xăng mạnh đức)": {
+        "latitude": 21.1212051,
+        "longitude": 106.0880245
+    },
+    "đồngnai": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "daklak": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bắc giang( thuê cty delco)": {
+        "latitude": 21.3092863,
+        "longitude": 106.6165128
+    },
+    "huyện quỳ hợp": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "1 kcx linh trung ii q thủ đức": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "q.nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "tp.thủ dầu một tỉnh bình dươn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh nam định.": {
+        "latitude": 20.2712241,
+        "longitude": 106.1629895
+    },
+    "yên phong": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "huyện đắk glong thuộc công ty cổ phần quản lý sửa chữa đường bộ đắk nông": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "phú thọ (vùng 3)": {
+        "latitude": 21.4000047,
+        "longitude": 105.2238899
+    },
+    "ubnd huyện đăk mil": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tổng công ty xd ct gt4": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "ab": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "e": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đại học huế": {
+        "latitude": 16.4639321,
+        "longitude": 107.5863388
+    },
+    "thành phố vũng tàu": {
+        "latitude": 10.4962696,
+        "longitude": 107.1688433
+    },
+    "tỉnh đăk đăk lăk": {
+        "latitude": 12.8399392,
+        "longitude": 108.2284947
+    },
+    "bãi trành": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "3 đường nguyễn trọng quản. p.thạnh mỹ lợi.quận 2.tp.hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "dịch vụ phong vũ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "1 vy": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận nam từ liêm tp hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "ti nh bi nh dương": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "khu phố 1 phường tân phú quận 7": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "p8 đà lạt": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "lõm đồng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "cát tiên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thủ đức.": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "16 đường 3 2 đà lạt": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "p. an phú": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lâm đồng (làm việc ở vùng có pckv 0.5)": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "kcn bắc vinh": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "huyện diễn châu": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận 1 thành phố hồ chí minh": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tỉnh quảng ngãi": {
+        "latitude": 14.9635349,
+        "longitude": 108.6642632
+    },
+    "p7 tpvt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "công ty vlxd lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "công ty cp vlxd lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "cty cpks vlxd lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "u việt nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "p1 q.bình thạnh": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "hà tĩnh": {
+        "latitude": 18.2879059,
+        "longitude": 105.7842774
+    },
+    "q1 tp hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "t ỉnh nghệ an": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "tp vinh nghệ an": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "tổng công ty xây dựng trường sơn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "xã nghi phú tp vinh nghệ an": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "kv i": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "vùng 2": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh bỡnh dương": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp bà rịa tỉnh brvt": {
+        "latitude": 10.4962696,
+        "longitude": 107.1688433
+    },
+    "khanh hoà": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "43 mạc đỉnh chi phường đa kao quận 1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "vĩnh phúc; 0979629298": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "long biên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "điện biên": {
+        "latitude": 21.7210126,
+        "longitude": 103.0410819
+    },
+    "hồ chí minh)": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "đalat": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thương mại nguyệt ánh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "cty vl x.dựng lđ": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "số 72 lê thánh tôn phường bến nghé quận 1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "vy vp": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "vĩnh phúc (đối diện cổng cty toyota)": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "phường đống đa vĩnh yên vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "đồng nai (trụ sở công ty boramtek)": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "628c xa lộ hà nội. p. an phú . quận 2. tp.hcm": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "số 30 đường 19 khu đô thị an phú an khánh .p.an phú . quận 2. tp.hcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "gv": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "h. bình chánh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đường n.phong sắc kéo dài": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "nghệ anh": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "tân thành": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "mê linh vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "tp. biên hoà": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "t.bp": {
+        "latitude": 11.7332484,
+        "longitude": 106.906249
+    },
+    "tpst": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tiền giang": {
+        "latitude": 10.8082971,
+        "longitude": 106.6654911
+    },
+    "huyện nghi lộc tỉnh nghệ an": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "p. ntb q1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "đồng nai (cạnh công ty fasy)": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "tân thới nhì. hócmôn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "khu cn bình xuyên 2": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "51 phùng khắc khoan p.đk q1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "48 hau giang": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "số 235 đồng khởi. q1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "vụ tổ chức cán bộ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "mai dịch cầu giấy hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "cầu giấy. hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "bđ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hoàn kiếm. hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "hà nội)": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "hn)": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "yên hoà": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp.hcm ( cao ốc fideco tower)": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "nhà b10 tt kim liên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "mỹ đình từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "p13. q.tân bình": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "quận hai bà trưng hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "239 xuân thuỷ cầu giấy": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "364 cộng hòa q.tân bình": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "q. đống đa hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "đông đa": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp.hcm (khu đô thị mới thủ thiêm)": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "dvh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "60 trần phú": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q. dống đa hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "hưng yên (vùng 2)": {
+        "latitude": 20.8193369,
+        "longitude": 106.0314504
+    },
+    "00": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận cầu giấy . tp hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "q.11": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tpthái bình": {
+        "latitude": 20.5296832,
+        "longitude": 106.3876068
+    },
+    "vĩnh phúc (vùng 03)": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "vận hành máy": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đông anh. hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "thành phố ha nô i": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "kđt mễ trì từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "thành phố hà nôị": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "phường xuân tảo bắc từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "phường mễ trì quận nam từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "đầu tư bất động sản hà nội online": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "làng quốc tế thăng long": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tổ 54 p dịch vọng hậu": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp. hồ chí minh (vùng 1)": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "da": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "03": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p. hoàng văn thụ hoàng mai hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "quận hà đông hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "3 phó đức chính": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "x2 đường phạm hùng đình thôn mỹ đình từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "x2 đường phạm hùng đình thôn mỹ đình quận nam từ liêm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "trần duy hưng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận đống đa tphn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "q.pnhuận": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "q.hoàng mai hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "lai châu": {
+        "latitude": 22.3048728,
+        "longitude": 102.9628862
+    },
+    "vĩnh phúc (vùng 02)": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "hà nôị": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q.hà đông": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "ns": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "việt nam )": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "13 kcn ngọc hồi thanh trì hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "t.yên bái": {
+        "latitude": 21.69611,
+        "longitude": 104.8752392
+    },
+    "17 ngọc khánh ba đình hn": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "tp. thủ dầu một": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bắc cạn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "lkt": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tx. sông công. t. thái nguyên": {
+        "latitude": 21.592477,
+        "longitude": 105.8435398
+    },
+    "5 lê duẩn p.bn q1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "tỉnh phú yên": {
+        "latitude": 13.2126552,
+        "longitude": 109.0834225
+    },
+    "cao bằng)": {
+        "latitude": 22.7730867,
+        "longitude": 106.0017225
+    },
+    "phổ yên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "phú thọ (vùng 2)": {
+        "latitude": 21.4000047,
+        "longitude": 105.2238899
+    },
+    "lạng sơ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "huyện văn lãng tỉnh lạng sơn": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "phường bãi cháy": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "nicoh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "khu dân cư đông hùng thắng ii phường bãi cháy hạ long": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "hạ long qn": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "lạng sơn (vùng 3)": {
+        "latitude": 21.8932309,
+        "longitude": 106.58843128615864
+    },
+    "phường yết kiêu": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p lê lợi": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tphải phòng": {
+        "latitude": 20.858864,
+        "longitude": 106.6749591
+    },
+    "bắcgiang": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quảng ninh.": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "bãi cháy hạ long": {
+        "latitude": 21.1718046,
+        "longitude": 107.2012742
+    },
+    "hải dương (vùng 2)": {
+        "latitude": 20.9443681,
+        "longitude": 106.3780373
+    },
+    "đường hoàng văn thụ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "gia lâm hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "bình thuận": {
+        "latitude": 11.101462,
+        "longitude": 107.9415938
+    },
+    "bác giang": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "củ chi": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đắk lắk (vùng 4)": {
+        "latitude": 12.8399392,
+        "longitude": 108.2284947
+    },
+    "dv thảo minh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "xã thiện tân vĩnh cửu đồng nai": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "huyện cư kuin tỉnh đắk lắk": {
+        "latitude": 12.8399392,
+        "longitude": 108.2284947
+    },
+    "tpbn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "q tân phú": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh đắk lăk": {
+        "latitude": 12.8399392,
+        "longitude": 108.2284947
+    },
+    "24 đào tấn ba đình hà nội": {
+        "latitude": 21.0294498,
+        "longitude": 105.8544441
+    },
+    "kcn vĩnh lộc q bình tân": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "p. đông thọ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "cnsx đức hòa": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tp cà mau": {
+        "latitude": 9.0875429,
+        "longitude": 105.032047
+    },
+    "tỉnh vp": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "đắk nông.": {
+        "latitude": 12.1288687,
+        "longitude": 107.5874261
+    },
+    "bình phươc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "p.đk q1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "p04 q6": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh quảng trị": {
+        "latitude": 16.8581352,
+        "longitude": 106.8588935
+    },
+    "dl": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh lâm ồng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đồng nai (trong khuôn viên dntn hồng ngân)": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "dịch vụ ngô gia": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quảng bình": {
+        "latitude": 17.5462658,
+        "longitude": 106.2576229
+    },
+    "sư đoàn 395": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "cty cp vl x.dựng lđ": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "chi nhánh lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "p12 q.gv": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "lâm hà": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tt hành chính lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "203 trần hưng đạo p. cô giang q1": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "lào)": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tỉnh nghệ an h": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "phường 10 đà lạt": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "phú thọ (cổ tiết)": {
+        "latitude": 21.4000047,
+        "longitude": 105.2238899
+    },
+    "hưng yên; kv2": {
+        "latitude": 20.8193369,
+        "longitude": 106.0314504
+    },
+    "thcm": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "phường 2 q3": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "xã vĩnh lộc b huyện bình chánh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "khu vực miền nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "x": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "đơn dương l đ": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "huyện tân kỳ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "khai quang": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "bình hòa thuận an bình dương": {
+        "latitude": 11.1969829,
+        "longitude": 106.7080527
+    },
+    "p.25 q.bình thạnh": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "lầm đồng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "cn phúc yên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "hiệp phước nhơn trạch đồng nai": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "cn đồng nai": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "chi nhánh đồng nai": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "tt liên nghĩa đức trọng lâm đồng": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "thành phố tây ninh": {
+        "latitude": 11.404629,
+        "longitude": 106.0033909
+    },
+    "tỉnh quảng nam đà nẵng": {
+        "latitude": 16.068,
+        "longitude": 108.212
+    },
+    "tỉnh tiền giang": {
+        "latitude": 10.8082971,
+        "longitude": 106.6654911
+    },
+    "nghệ ab": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "khách sạn theluxe tại đà lạt": {
+        "latitude": 11.6937725,
+        "longitude": 108.152754
+    },
+    "hcmc": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "q. bình tân.": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "q 3": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "quận 11": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "huyện bình chánh": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "khhgđ tỉnh vĩnh phúc": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "tiền phong": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "vĩnh phucd": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "công ty cp đại lý giao nhận vận tải xếp dỡ tân cảng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "cty cp đại lý giao nhận vận tải xếp dỡ tâ cảng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tm nhựa chợ lớn": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "tt lộc thắng": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "thành phố vĩnh yên": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "thị xã cửa lò": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "kkt đông nam": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "kkt đông nam nghệ an": {
+        "latitude": 19.3738868,
+        "longitude": 104.9233469
+    },
+    "tam đảo vĩnh phú": {
+        "latitude": 21.311356,
+        "longitude": 105.6032944
+    },
+    "thũ đức": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "gdtx bình xuyên": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "nhơn trạch đồng nai": {
+        "latitude": 11.0063212,
+        "longitude": 107.1921807
+    },
+    "p12. quận gò vấp": {
+        "latitude": 17.5973173,
+        "longitude": 106.2571612
+    },
+    "kcx linh trung ii qtđ": {
+        "latitude": -1.0,
+        "longitude": -1.0
+    },
+    "nam định( nhà ông đinh văn hiệu)": {
+        "latitude": 20.2712241,
+        "longitude": 106.1629895
+    }
+}
