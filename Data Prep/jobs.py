@@ -21,6 +21,9 @@ test_work['job/role'].fillna('NA', inplace = True)
 train_work['job/role'] = train_work['job/role'].str.lower()
 test_work['job/role'] = test_work['job/role'].str.lower()
 
+train_work['address'] = train_work['address'].str.lower()
+test_work['address'] = test_work['address'].str.lower()
+
 # normalize the words
 #   -   between 2 words there is only 1 blank space
 #   -   there is no special character
@@ -50,6 +53,20 @@ test_work['job/role']  = test_work['job/role'].apply(process)
 
 jobs_total = pd.concat([train_work['job/role'], test_work['job/role']])
 jobs_total.to_csv('jobs.csv')
+
+def fillNaN(df):
+    for i in range(1, len(df)):
+        if (df['id_office'][i - 1] == df['id_office'][i] or df['id_bh'][i - 1] == df['id_bh'][i]):
+            if pd.isnull(df['address'][i]):     df.at[i, 'address']  = df['address'][i - 1]
+            if pd.isnull(df['job/role'][i]):    df.at[i, 'job/role'] = df['job/role'][i - 1]
+        
+    for i in range(len(df) - 2, -1, -1):
+        if (df['id_office'][i + 1] == df['id_office'][i] or df['id_bh'][i + 1] == df['id_bh'][i]):
+            if pd.isnull(df['address'][i]):     df.at[i, 'address']  = df['address'][i + 1]
+            if pd.isnull(df['job/role'][i]):    df.at[i, 'job/role'] = df['job/role'][i + 1]
+
+fillNaN(train_work)
+fillNaN(test_work)
 
 train_work.to_csv('../uet-hackathon-2022-data-science/work_train.csv')
 test_work.to_csv('../uet-hackathon-2022-data-science/work_test.csv')

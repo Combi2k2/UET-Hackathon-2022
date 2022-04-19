@@ -6,6 +6,7 @@ from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
 
 import gensim, logging
+import json
 
 model = gensim.models.Word2Vec.load('../models/model_Word2Vec')
 job_train = pd.read_csv('../uet-hackathon-2022-data-science')
@@ -32,5 +33,10 @@ def Sentence2Vec(sentence):
     
     return  res
 
+address_dict = json.load('address_dict.json')
+
 def Job2Vec(company_type, title, from_date, to_date, employee_lv, address):
-    return  np.concatenate((np.array([company_type, from_date, to_date, address]), Sentence2Vec(title)) * employee_lv / 10, axis = 0)
+    x = address_dict[address]['latitude']
+    y = address_dict[address]['longitude']
+
+    return  np.concatenate((np.array([company_type, from_date, to_date, x, y]), Sentence2Vec(title)) * employee_lv / 10, axis = 0)
