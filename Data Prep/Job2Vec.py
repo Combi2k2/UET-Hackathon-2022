@@ -8,14 +8,13 @@ from sklearn.manifold import TSNE
 import gensim, logging
 
 model = gensim.models.Word2Vec.load('../models/model_Word2Vec')
-
-job_train = pd.read_csv('/content/jobs.csv')
+job_train = pd.read_csv('../uet-hackathon-2022-data-science')
 
 n_docs = len(set(job_train['job/role']))
 w_freq = dict()
 
 for title in set(job_train['job/role']):
-    words = str(title.split())
+    words = str(title).split()
 
     for w in set(words):
         if (w not in w_freq):
