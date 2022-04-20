@@ -9,7 +9,7 @@ import gensim, logging
 import json
 
 model = gensim.models.Word2Vec.load('../models/model_Word2Vec')
-job_train = pd.read_csv('../uet-hackathon-2022-data-science')
+job_train = pd.read_csv('UET-Hackathon-2022/utils/jobs.csv')
 
 n_docs = len(set(job_train['job/role']))
 w_freq = dict()
@@ -37,7 +37,13 @@ with open('/content/UET-Hackathon-2022/Data Prep/address_dict.json') as json_fil
     address_dict = json.load(json_file)
 
 def Job2Vec(company_type, title, from_date, to_date, employee_lv, address):
-    x = address_dict[address]['latitude']
-    y = address_dict[address]['longitude']
+    x = address_dict[address]['latitude']  if address in address_dict else -1
+    y = address_dict[address]['longitude'] if address in address_dict else -1
 
-    return  np.concatenate((np.array([company_type, from_date, to_date, x, y]), Sentence2Vec(title)) * employee_lv / 10, axis = 0)
+    return  np.concatenate((np.array([company_type, from_date, to_date, x, y]), Sentence2Vec(title) * employee_lv / 10), axis = 0)
+  
+def Info2Vec(birthyear, gender, address):
+    x = address_dict[address]['latitude']  if address in address_dict else -1
+    y = address_dict[address]['longitude'] if address in address_dict else -1
+
+    return  np.array([birthyear, 1 if gender == 'MALE' else 0, x, y])
